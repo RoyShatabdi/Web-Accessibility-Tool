@@ -1,7 +1,4 @@
 
-<img src="https://github.com/RoyShatabdi/Web-Accessibility-Tool/blob/master/landing_page/img/favicon.png" title="logo" alt="logo" sizes="32x32">
-
-
 
 # Web-Accessibility-Tool
 
@@ -26,3 +23,19 @@ The aim of this project is to design and develop a web application for an online
 
 ## Goals
 
+- **We want to**
+    - make responsive web services to provide multiple tools in one interface and analyses web page errors 
+
+- **Because**
+    - to make Testing easy, accessibile, engaging and intuitive 
+
+- **So that**
+  - we can reduce the testing time
+  
+  
+## Tools & Services
+* One website, Many devices
+* All browsers supported
+* Export Summary/individual bug reports in pdf
+* Larger view use the toggle menu
+* Enter the web-address one time 
