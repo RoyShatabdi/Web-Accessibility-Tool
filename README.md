@@ -33,7 +33,7 @@ The aim of this project is to design and develop a web application for an online
   - we can reduce the testing time
   
   
-## Tools & Services
+## Features 
 * One website, Many devices
 * All browsers supported
 * Export Summary/individual bug reports in pdf
