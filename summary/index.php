@@ -39,6 +39,9 @@
     <script type="text/javascript" src="/summary/js/_ShowSnackBar.js"></script>
 </head>
 <body>
+    <?php
+// PHP code goes here
+?>
 <div class="header">
     <div class="container">
 
